@@ -1,4 +1,4 @@
-# Full list
+# Appendix 1: Full list
 List of studies included in survey paper on AI tools for diagnosis of prostate cancer
 
 *By Uzair Shah, Hazrat Ali, and Zubair Shah*
